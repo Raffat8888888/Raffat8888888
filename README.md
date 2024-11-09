@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Raffat8888888
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning new languages
+- 👀 I’m a coder
+- 🌱 I’m a learner
+- ✨I can be anyone i wanna be✨
   
 
 <!---
